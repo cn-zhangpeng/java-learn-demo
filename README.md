@@ -4,5 +4,5 @@
 
 ### 内容描述
 
-* unit-test-demo：[单元测试示例](unit-test-demo/README.md)。
+* unit-test-demo：[单元测试示例](unit-test-demo)。
 
