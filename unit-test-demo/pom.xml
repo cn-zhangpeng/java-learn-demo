@@ -12,7 +12,7 @@
     <groupId>com.java.learn.springboot</groupId>
     <artifactId>unit-test-demo</artifactId>
     <version>1.0.0</version>
-    <name>unit test demo</name>
+    <name>Unit Test Demo</name>
     <description>Unit Test Demo</description>
 
     <properties>
