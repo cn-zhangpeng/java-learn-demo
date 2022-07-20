@@ -1,0 +1,15 @@
+spring:
+  redis:
+    redisson:
+      client-name: redis-test
+      database: 0
+      address: redis://127.0.0.1:6379
+      password: 123456
+      connect-timeout: 10000
+      idle-connection-timeout: 10000
+      timeout: 10000
+      retry-attempts: 3
+      connection-minimum-idle-size: 5
+      connection-pool-size: 10
+      retry-interval: 1500
+      subscriptions-perConnection: 6
