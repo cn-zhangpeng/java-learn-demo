@@ -6,4 +6,5 @@
 
 * unit-test-demo：[单元测试示例](unit-test-demo)。
 * nacos-info-encrypt：[配置文件敏感字段加密](nacos-info-encrypt)。
+* redis-stream-demo：[Redis Stream操作示例](redis-stream-demo)。
 
